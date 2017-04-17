@@ -1,0 +1,15 @@
+import turtle
+wn=turtle.Screen()
+turtle.Screen()
+
+
+t1 = turtle.Turtle()
+t1.forward(100)
+
+t1.shape("turtle")
+
+wn.addshape("ll.gif")
+
+t1.shape("ll.gif")
+
+
